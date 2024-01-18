@@ -50,6 +50,8 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: grid;
+    grid-template-columns: 10fr 10fr;
   }
 
   .feature {
